@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an end to end Data Science project, with an interactive UI.<br>I'm looking to collaborate on real life projects and create meaningful insights that will help the business grow.<br>I'm currently learning Intermediate to Advanced level of Machine Learning and Data Science.<br>A fun fact about me is that I am a very creative engineer.
+I argue with GPU's for Living :)
 
 
 ## 🌐 Socials:
